@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "fullName": "Ajay",
+  "email": "ajay@example.com",
+  "walletBalance": 1250,
+  "location": {
+    "area": "Manipal",
+    "city": "Udupi",
+    "state": "Karnataka"
+  }
+}
