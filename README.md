@@ -4,7 +4,7 @@ A Zomato-style restaurant listing page built with React and Tailwind CSS.
 
 ## Live Demo
 
-[View on Vercel](https://your-project.vercel.app)
+[View on Vercel](https://zomato-clone-exelon-cbeb.vercel.app)
 
 ## Features
 
